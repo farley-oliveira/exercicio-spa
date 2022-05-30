@@ -1,0 +1,36 @@
+.main-home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 145px);
+}
+
+.main-home img {
+    width: 400px;
+}
+
+.main-home div {
+    max-width: 500px;
+}
+
+.main-home div h1{
+    margin: 20px 0;
+}
+
+.main-home div p{
+    margin: 20px 0;
+    line-height: 1.5;
+}
+
+.main-home div button{
+    border: none;
+    border-radius: 25px;
+    background-color: navy;
+    color: #fff;
+    margin: 20px 0;
+    height: 50px;
+    width: 250px;
+    font-size: medium;
+    font-weight: 500;
+    cursor: pointer;
+}
