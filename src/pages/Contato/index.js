@@ -8,6 +8,7 @@ const Contato = () => {
                 <input placeholder="Nome Completo"></input>
                 <input placeholder="Email"></input>
                 <input placeholder="Telefone"></input>
+                <textarea placeholder="Mensagem"></textarea>
                 <input type="submit" className='btn-custom'></input>
             </form>
         </div>
