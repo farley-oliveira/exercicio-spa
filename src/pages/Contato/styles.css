@@ -29,6 +29,7 @@
     height: 100px;
     font-size: medium;
     width: 400px;
+    resize: none;
 }
 
 .btn-custom {
